@@ -1,0 +1,11 @@
+{
+  "name": "langchain-demo",
+  "version": "1.0.0",
+  "description": "text summerization demo with langchain and open AI embeding model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eskindir",
+  "license": "ISC"
+}

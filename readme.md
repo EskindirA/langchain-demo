@@ -1,0 +1,1 @@
+## vectorize and test with the summerized text (3000 words) about java, with open ai embeddings.
