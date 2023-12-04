@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "text summerization demo with langchain and open AI embeding model",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Eskindir",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "langchain": "^0.0.200"
+  }
 }
